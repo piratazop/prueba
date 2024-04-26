@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="app_name2">Application</string>
+    <string name="saludo_inicial">Calculadora</string>
+    <string name="button1">sumar</string>
+    <string name="button2">restar</string>
+    <string name="button3">multiplicar</string>
+</resources>
